@@ -21,7 +21,7 @@ The goal of HPaste's MapReduce support is to allow you to build rich functionali
 (It is a mini-goal of HPaste to integrate into Cascading's tuple framework.)
 
 ## Project Status
-This project is currently actively developed and maintained.  It is used in a large production codebase in high-throughput, memory-intensive scenarios, and has many months of bug fixes under its belt.  Because it already has a great deal of code utilizing it, there will not be many breaking changes to the API.  Instead what we usually do is provide an upgraded API that sits next to the old API, then deprecate the old one.  
+This is a fork of the original (now defunt) [Gravity Labs](https://github.com/GravityLabs/HPaste) project. Currently this project has not been maintained in awhile, so there are efforts to help modernize it and then actively maintain it.
 
 ## Installation
 
